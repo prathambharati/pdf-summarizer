@@ -1,4 +1,3 @@
-#pdf-summarizer
 📚 PDF Summarizer & Q/A Chatbot using LLMs
 This Streamlit app allows you to upload any PDF document, summarize it, and interact with its contents using natural language questions — all powered by OpenAI's language models and LangChain.
 
